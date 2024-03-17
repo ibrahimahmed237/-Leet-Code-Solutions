@@ -11,7 +11,6 @@ This repository contains my solutions to various coding problems on LeetCode. It
 
 * Solutions are written in [C++, JavaScript, TypeScript].
 * Each problem includes a clear description, time and space complexity analysis (if applicable), and well-commented code.
-* The repository is organized by [your chosen organization method, e.g., LeetCode difficulty level, problem category].
 * Some solutions may include alternative approaches or optimizations (if applicable).
 
 **Usage:**
